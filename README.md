@@ -14,6 +14,7 @@
 <li>Geração de números aleatórios para definir o número secreto.</li>
 <li>Estruturas condicionais (if/else) para comparar o palpite com o número secreto e fornecer feedback.</li>
 <li>Formatação de strings para exibir mensagens personalizadas com o número do palpite e o número de tentativas.</li>
+<br/>
 
 
 Datas Importantes:
